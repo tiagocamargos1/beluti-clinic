@@ -262,3 +262,4 @@ function ConfiguracoesPage() {
 export default function App() {
   return <AppContent />
 }
+// Deploy trigger
